@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaNewPmt", "AdaNewPmt\AdaNewPmt.csproj", "{D4A6735D-CA9C-4C56-BA42-06779307C3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaNewPmtTest", "AdaNewPmtTest\AdaNewPmtTest.csproj", "{97D6A4CD-1320-446B-9B91-89521F2E67B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A6735D-CA9C-4C56-BA42-06779307C3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A6735D-CA9C-4C56-BA42-06779307C3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A6735D-CA9C-4C56-BA42-06779307C3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A6735D-CA9C-4C56-BA42-06779307C3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D6A4CD-1320-446B-9B91-89521F2E67B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D6A4CD-1320-446B-9B91-89521F2E67B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D6A4CD-1320-446B-9B91-89521F2E67B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D6A4CD-1320-446B-9B91-89521F2E67B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77FB444D-BFDE-4693-8E2D-A0DAEF26A37B}
+	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AdaNewPmt\\AdaNewPmt.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = AdaNewPmt\\
+		SccProjectUniqueName2 = AdaNewPmtTest\\AdaNewPmtTest.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = AdaNewPmtTest\\
+	EndGlobalSection
+EndGlobal
